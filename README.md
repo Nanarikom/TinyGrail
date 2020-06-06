@@ -8,8 +8,4 @@ A：参考[这个](https://github.com/sparanoid/chinese-copywriting-guidelines)
 
 Q：如何决定是否应该使用 $\LaTeX$？
 
-A：
-
-Q：如何决定是否应该使用 $\LaTeX$？
-
 A：~~没想好~~
